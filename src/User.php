@@ -1,5 +1,5 @@
 <?php
-class User {
+class User fd{
     protected $name;
 
     public function getName() {
